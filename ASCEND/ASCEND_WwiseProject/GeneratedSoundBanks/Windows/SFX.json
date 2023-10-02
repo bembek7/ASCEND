@@ -8,13 +8,117 @@
    {
     "Id": "393239870",
     "Type": "User",
-    "GUID": "{E9495B30-8B7A-4392-8AF5-84EC0F4B97AB}",
+    "GUID": "{BAA1E29E-0A20-408F-8B59-BA63A3AACF60}",
     "Language": "SFX",
-    "Hash": "{4F558201-E9B1-3174-F92B-E4E4BD13016D}",
+    "Hash": "{9C88B0F9-21C1-5114-69C4-2D96413B12DC}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SFX",
     "ShortName": "SFX",
     "Path": "SFX.bnk",
     "Media": [
+     {
+      "Id": "40107270",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "player_step_6.wav",
+      "CachePath": "SFX/player_step_6_10C4C929.wem"
+     },
+     {
+      "Id": "115031490",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "stomp_noise.wav",
+      "CachePath": "SFX/stomp_noise_908078E1.wem"
+     },
+     {
+      "Id": "129760385",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "player_step_7.wav",
+      "CachePath": "SFX/player_step_7_10C4C929.wem"
+     },
+     {
+      "Id": "131563023",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "player_step_1.wav",
+      "CachePath": "SFX/player_step_1_10C4C929.wem"
+     },
+     {
+      "Id": "191488719",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "player_step_8.wav",
+      "CachePath": "SFX/player_step_8_10C4C929.wem"
+     },
+     {
+      "Id": "257117172",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ladder_climb.wav",
+      "CachePath": "SFX/ladder_climb_D79FB2B7.wem"
+     },
+     {
+      "Id": "328176488",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "player_step_10.wav",
+      "CachePath": "SFX/player_step_10_10C4C929.wem"
+     },
+     {
+      "Id": "339216249",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "stomp_hit.wav",
+      "CachePath": "SFX/stomp_hit_10C4C929.wem"
+     },
+     {
+      "Id": "347559403",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambiance_Sea_Loop_Stereo.wav",
+      "CachePath": "SFX/Ambiance_Sea_Loop_Stereo_D79FB2B7.wem"
+     },
+     {
+      "Id": "368351798",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "player_step_9.wav",
+      "CachePath": "SFX/player_step_9_10C4C929.wem"
+     },
+     {
+      "Id": "376728411",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "player_step_2.wav",
+      "CachePath": "SFX/player_step_2_10C4C929.wem"
+     },
+     {
+      "Id": "386393109",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "NS01_002_Nature ambience with seaguls.wav",
+      "CachePath": "SFX/NS01_002_Nature ambience with seaguls_D79FB2B7.wem"
+     },
+     {
+      "Id": "537517731",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "player_step_3.wav",
+      "CachePath": "SFX/player_step_3_10C4C929.wem"
+     },
      {
       "Id": "574870632",
       "Language": "SFX",
@@ -22,26 +126,175 @@
       "Location": "Memory",
       "ShortName": "mine_explode.wav",
       "CachePath": "SFX/mine_explode_10C4C929.wem"
+     },
+     {
+      "Id": "725280168",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "player_step_5.wav",
+      "CachePath": "SFX/player_step_5_10C4C929.wem"
+     },
+     {
+      "Id": "984507630",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SON_Quad_City_Berlin_027 - Rooftop At Night In Residential Area, Calm, Faint Traffic, Churchbells At Top - Front Omni.wav",
+      "CachePath": "SFX/SON_Quad_City_Berlin_027 - Rooftop At Night In Residential Area, Calm, Faint Traffic, Churchbells At Top - Front Omni_D79FB2B7.wem"
+     },
+     {
+      "Id": "1065769762",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "player_step_4.wav",
+      "CachePath": "SFX/player_step_4_10C4C929.wem"
      }
     ],
     "Events": [
      {
+      "Id": "2278257568",
+      "Name": "CityAmbient",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Environment\\Ambients\\CityAmbient",
+      "GUID": "{00CEB696-C76E-4CA1-8501-5EE46C11A1F9}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "386393109"
+       },
+       {
+        "Id": "984507630"
+       }
+      ]
+     },
+     {
+      "Id": "1866025847",
+      "Name": "Footstep",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Player\\Footsteps\\Footstep",
+      "GUID": "{614B9761-5F04-4450-AD52-13A27855E307}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.30751312",
+      "DurationMax": "0.4147612",
+      "MediaRefs": [
+       {
+        "Id": "40107270"
+       },
+       {
+        "Id": "129760385"
+       },
+       {
+        "Id": "131563023"
+       },
+       {
+        "Id": "191488719"
+       },
+       {
+        "Id": "328176488"
+       },
+       {
+        "Id": "368351798"
+       },
+       {
+        "Id": "376728411"
+       },
+       {
+        "Id": "537517731"
+       },
+       {
+        "Id": "725280168"
+       },
+       {
+        "Id": "1065769762"
+       }
+      ]
+     },
+     {
+      "Id": "1873631952",
+      "Name": "LadderClimb",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Player\\Ladder Climbing\\LadderClimb",
+      "GUID": "{2EFF5B21-A2CF-44C5-8B81-AA13981D952E}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "257117172"
+       }
+      ]
+     },
+     {
+      "Id": "3262001568",
+      "Name": "LadderStopClimbing",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Player\\Ladder Climbing\\LadderStopClimbing",
+      "GUID": "{96D5D0C3-8C92-4BE0-90B8-B9FDEFE639FC}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "MediaRefs": [
+       {
+        "Id": "257117172"
+       }
+      ]
+     },
+     {
       "Id": "3403979510",
       "Name": "Mine_Explode",
-      "ObjectPath": "\\Events\\Default Work Unit\\Abilites\\Mine\\Mine_Explode",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Abilites\\Mine\\Mine_Explode",
       "GUID": "{91E9F18C-E140-4971-9832-5637091598CA}",
       "DurationType": "OneShot",
-      "DurationMin": "1.1611563",
-      "DurationMax": "1.1719373",
+      "DurationMin": "1.3035163",
+      "DurationMax": "1.3156191",
       "MediaRefs": [
        {
         "Id": "574870632"
+       }
+      ]
+     },
+     {
+      "Id": "684980302",
+      "Name": "SeaAmbient",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Environment\\Ambients\\SeaAmbient",
+      "GUID": "{A389162B-037D-44F8-A6B7-20B612E80E65}",
+      "MaxAttenuation": "10000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "347559403"
+       }
+      ]
+     },
+     {
+      "Id": "2391121158",
+      "Name": "Stomp_Hit",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Abilites\\Stomp\\Stomp_Hit",
+      "GUID": "{83962DD9-EA90-47C7-99B6-39FF53E933A8}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.51339585",
+      "DurationMax": "0.51339585",
+      "MediaRefs": [
+       {
+        "Id": "115031490"
+       },
+       {
+        "Id": "339216249"
+       }
+      ]
+     },
+     {
+      "Id": "10814438",
+      "Name": "Stomp_InAir",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Abilites\\Stomp\\Stomp_InAir",
+      "GUID": "{20903FB4-CE5F-42CE-AE5D-91C4EE65916F}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "115031490"
        }
       ]
      }
     ]
    }
   ],
-  "FileHash": "{4598C0E6-8CD4-A3C8-6240-D46DBAF43DF2}"
+  "FileHash": "{806C1C10-998E-8E2E-7B50-1C5282B16867}"
  }
 }
